@@ -8,7 +8,7 @@ class Testexample1{
 	public static void main(String[] args) {
 		example1 myObj = new example1();
 
-		myobj.x = 40;
+		myObj.x = 40;
 
 		System.out.println(myObj.x);
 	
