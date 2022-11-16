@@ -61,7 +61,7 @@ package com.cg.statickeyword;
 		}
 	}
 
-	public class Main {
+	public class main {
 		public static void main(String[] args) {
 			Students s1 = new Students("shankar", 4567, "shankar@gmail.com", 7.9f);
 			Students s2 = new Students("Rehman khan", 4567, "rehamankhan1603@gmail.com", 7.1f);
